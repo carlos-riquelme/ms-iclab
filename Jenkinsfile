@@ -1,2 +1,2 @@
-library ('pipeline@$BRANCH_NAME')
+library ('pipeline@feature-library')
 ejecucion.call()
