@@ -1,2 +1,2 @@
-library ('pipeline@feature-library')
+library ('pipeline')
 ejecucion.call()
